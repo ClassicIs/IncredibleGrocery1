@@ -1,2 +1,2 @@
-# IncredibleGrocery1
+# IncredibleGrocery
 Тестовый проект для Mind Studios.
